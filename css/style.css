@@ -1,0 +1,14 @@
+.TamañoDeImgPrincipal{
+    height: 30rem;
+    width: 27rem;
+}
+.TipoDeLetra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ColorDeFondo{
+    background-color: #f8f9fa;
+}
+.TamañoDeImgLogoDeEmpresa{
+    height: 10rem;
+    width: 10rem;
+}
